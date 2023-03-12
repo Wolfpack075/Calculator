@@ -32,7 +32,7 @@ public class hudai1 {
         this.a2 = a2;
     }
 
-    public void setzz(string zz) {
+    public void setZZ(string zz) {
         this.zz = zz;
     }
 }
